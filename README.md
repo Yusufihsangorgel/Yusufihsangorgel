@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yusufihsangorgel
-- 👀 I’m interested in ios develop
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me developeryusuf@icloud.com
 
 <!---
