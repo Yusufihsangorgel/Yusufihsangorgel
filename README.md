@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Yusufihsangorgel
+
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
+
+- 🌱 I'm currently studying Software Engineering at Mehmet Akif Ersoy University.
+
 - 📫 How to reach me developeryusuf@icloud.com
 
 <!---
