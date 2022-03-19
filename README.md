@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yusuf İhsan</h1>
 <h3 align="center">I'm Flutter developer and currently studying Software Engineering at Mehmet Akif Ersoy University.</h3>
 
+- 🌱 I’m currently learning **Golang**
+
 - 📫 How to reach me **developeryusuf@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
