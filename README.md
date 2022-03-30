@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Yusuf İhsan</h1>
 <h3 align="center">I'm Jr.Flutter developer and currently studying Software Engineering at Mehmet Akif Ersoy University.</h3>
 
-- 📄 My Projects: [Weather App](https://github.com/Yusufihsangorgel/weather_app)
-
-- 📄 My Projects: [Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
-
-- 📄 My Projects: [İmage Editor](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
-
 - 🌱 I’m currently learning **Golang**
 
-
 - 📫 How to reach me **developeryusuf@icloud.com**
+
+
+
+- 📄 My Flutter Projects: 
+
+[Weather App](https://github.com/Yusufihsangorgel/weather_app)
+
+[Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
+
+[İmage Editor](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
