@@ -13,7 +13,7 @@
 
 -[Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
 
--[İmage Editor](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
+-[İmage Editor App](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
 
 -[Turkish Dictionary App](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
 
