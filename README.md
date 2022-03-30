@@ -9,11 +9,13 @@
 
 - 📄 My Flutter Projects: 
 
-[Weather App](https://github.com/Yusufihsangorgel/weather_app)
+-[Weather App](https://github.com/Yusufihsangorgel/weather_app)
 
-[Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
+-[Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
 
-[İmage Editor](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
+-[İmage Editor](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
+
+-[Turkish Dictionary App](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
 
 
 <h3 align="left">Connect with me:</h3>
