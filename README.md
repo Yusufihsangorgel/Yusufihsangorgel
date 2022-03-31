@@ -10,7 +10,7 @@
 
 -API [Weather App](https://github.com/Yusufihsangorgel/weather_app)
 
--API&GETX [Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
+-API&GetX [Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
 
 -[İmage Editor App](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
 
