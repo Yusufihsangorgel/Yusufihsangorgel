@@ -8,13 +8,13 @@
 
 - 📄 My Flutter Projects: 
 
--API[Weather App](https://github.com/Yusufihsangorgel/weather_app)
+-API [Weather App](https://github.com/Yusufihsangorgel/weather_app)
 
--API-GETX[Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
+-API-GETX [Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
 
 -[İmage Editor App](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
 
--API-PROVİDER-MVVM[Turkish Dictionary Ap](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
+-API-PROVİDER-MVVM [Turkish Dictionary Ap](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
 
 -MOBX [Calculator App](https://github.com/Yusufihsangorgel/mobx_calculator_app)
 
