@@ -14,9 +14,9 @@
 
 -[İmage Editor App](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
 
--[Turkish Dictionary App]-[API-PROVİDER-MVVM](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
+-[Turkish Dictionary Ap(-API-PROVİDER-MVVM)]-[API-PROVİDER-MVVM](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
 
--[Calculator App]-[MOBX](https://github.com/Yusufihsangorgel/mobx_calculator_app)
+-MOBX [Calculator App](https://github.com/Yusufihsangorgel/mobx_calculator_app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
