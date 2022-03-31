@@ -14,7 +14,7 @@
 
 -[İmage Editor App](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
 
--API&PROVIDER&MVVM [Turkish Dictionary Ap](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
+-API&PROVIDER&MVVM [Turkish Dictionary App](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
 
 -MOBX [Calculator App](https://github.com/Yusufihsangorgel/mobx_calculator_app)
 
