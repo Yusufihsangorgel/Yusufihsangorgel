@@ -8,15 +8,15 @@
 
 - 📄 My Flutter Projects: 
 
--API [Weather App](https://github.com/Yusufihsangorgel/weather_app)
-
--API&GetX [Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
+-[Turkish Dictionary App](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
 
 -[İmage Editor App](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
 
--API&PROVIDER&MVVM [Turkish Dictionary App](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
+-[Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
 
--MOBX [Calculator App](https://github.com/Yusufihsangorgel/mobx_calculator_app)
+-[Weather App](https://github.com/Yusufihsangorgel/weather_app)
+
+-[Calculator App](https://github.com/Yusufihsangorgel/mobx_calculator_app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
