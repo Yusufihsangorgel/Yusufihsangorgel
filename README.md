@@ -16,7 +16,6 @@
 
 -[Weather App](https://github.com/Yusufihsangorgel/weather_app)
 
--[Calculator App](https://github.com/Yusufihsangorgel/mobx_calculator_app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
