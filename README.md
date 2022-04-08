@@ -8,7 +8,7 @@
 
 - 📄 My Flutter Projects: 
 
--[Today in History App(Tarihte Bugün Uygulaması](https://github.com/Yusufihsangorgel/today_in_history_app)
+-[Today in History App(Tarihte Bugün Uygulaması)](https://github.com/Yusufihsangorgel/today_in_history_app)
 
 -[Quran surahs app(Kuran Sureleri Uygulaması)](https://github.com/Yusufihsangorgel/kuran_sure_meal_app)
 
