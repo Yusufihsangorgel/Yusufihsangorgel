@@ -10,6 +10,8 @@
 
 -[Today in History App](https://github.com/Yusufihsangorgel/today_in_history_app)
 
+-[Translate App](https://github.com/Yusufihsangorgel/translate_app)
+
 -[Quran surahs app](https://github.com/Yusufihsangorgel/kuran_sure_meal_app)
 
 -[Turkish Dictionary App](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
