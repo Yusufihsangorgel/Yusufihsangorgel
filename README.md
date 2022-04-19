@@ -16,6 +16,8 @@
 
 -[Turkish Dictionary App](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
 
+-[Turkey Public Holidays App](https://github.com/Yusufihsangorgel/turkey_public_holidays_app)
+
 -[İmage Editor App](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
 
 -[Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
