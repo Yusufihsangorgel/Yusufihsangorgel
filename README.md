@@ -12,11 +12,12 @@
 
 -[Translate App](https://github.com/Yusufihsangorgel/translate_app)
 
+-[Turkey Public Holidays App](https://github.com/Yusufihsangorgel/turkey_public_holidays_app)
+
 -[Quran surahs app](https://github.com/Yusufihsangorgel/kuran_sure_meal_app)
 
 -[Turkish Dictionary App](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
 
--[Turkey Public Holidays App](https://github.com/Yusufihsangorgel/turkey_public_holidays_app)
 
 -[İmage Editor App](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
 
