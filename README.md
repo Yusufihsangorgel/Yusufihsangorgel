@@ -8,6 +8,8 @@
 
 - 📄 My Flutter Projects: 
 
+-[Movie App](https://github.com/Yusufihsangorgel/movie_app)
+
 -[Today in History App](https://github.com/Yusufihsangorgel/today_in_history_app)
 
 -[Translate App](https://github.com/Yusufihsangorgel/translate_app)
