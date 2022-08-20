@@ -13,4 +13,4 @@ I'm Flutter&SwiftUI developer and currently studying Software Engineering at Meh
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufihsangorgel&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yusufihsangorgel&icon=0&color=0)](https://visitcount.itsvg.in)
+
