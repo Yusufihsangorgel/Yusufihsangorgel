@@ -1,40 +1,13 @@
-<h1 align="center">Hi 👋, I'm Yusuf İhsan</h1>
-<h3 align="center">I'm Jr.Flutter developer and currently studying Software Engineering at Mehmet Akif Ersoy University.</h3>
-
-- 🌱 I’m currently learning **Flutter,SwiftUI**
-
-- 📫 How to reach me **developeryusuf@icloud.com**
+# 💫 About Me:
+I'm Flutter&SwiftUI developer and currently studying Software Engineering at Mehmet Akif Ersoy University.
 
 
-- 📄 My Flutter Projects: 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aestheticscoding) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-ihsan-görgel-a33694219) 
 
--[Movie App](https://github.com/Yusufihsangorgel/movie_app)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
--[Today in History App](https://github.com/Yusufihsangorgel/today_in_history_app)
+---
+[![](https://visitcount.itsvg.in/api?id=Yusufihsangorgel&icon=0&color=0)](https://visitcount.itsvg.in)
 
--[Translate App](https://github.com/Yusufihsangorgel/translate_app)
-
--[Turkey Public Holidays App](https://github.com/Yusufihsangorgel/turkey_public_holidays_app)
-
--[Quran surahs app](https://github.com/Yusufihsangorgel/kuran_sure_meal_app)
-
--[Turkish Dictionary App](https://github.com/Yusufihsangorgel/flutter_dictionary_app)
-
-
--[İmage Editor App](https://github.com/Yusufihsangorgel/flutter_image_editor_app)
-
--[Shopping App](https://github.com/Yusufihsangorgel/shopping_app_GetX)
-
--[Weather App](https://github.com/Yusufihsangorgel/weather_app)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yusuf-ihsan-görgel-a33694219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-ihsan-görgel-a33694219" height="30" width="40" /></a>
-<a href="https://instagram.com/aestheticscoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aestheticscoding" height="30" width="40" /></a>
-</p>
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufihsangorgel&" alt="yusufihsangorgel" /></p>
