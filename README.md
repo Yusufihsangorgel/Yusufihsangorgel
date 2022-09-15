@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm Flutter&SwiftUI developer and currently studying Software Engineering at Mehmet Akif Ersoy University.
 
-<a href="https://github.com/Yusufihsangorgel"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/dcfluttercommunity-member.svg" alt="DC Flutter Community Member" align="left" height="60" width="60" ></a>
 
 
 ## 🌐 Socials:
@@ -15,3 +14,4 @@ I'm Flutter&SwiftUI developer and currently studying Software Engineering at Meh
 
 ---
 
+<a href="https://github.com/Yusufihsangorgel"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/dcfluttercommunity-member.svg" alt="DC Flutter Community Member" align="left" height="60" width="60" ></a>
