@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [DEYOFU](https://www.linkedin.com/company/deyofu/),[HobbyMate](https://www.linkedin.com/company/hobbymate-official/about/)  
   
 
-- 🌱 I’m currently learning Flutter,NodeJS,ExpressJS,AWS,MongoDB,SwiftUI  
+- 🌱 I’m currently learning Flutter,NodeJS,ExpressJS,MongoDB,SwiftUI  
   
 
 - ❓ Ask me about mobile and backend developing  
