@@ -8,8 +8,6 @@
 
 ### <div align="center">I'm Yusuf İhsan, a Flutter&NodeJS&SwiftUI developer 👨‍💻 student at software engineering 🚀</div>  
   
-
-- 🔭 I’m currently working on [DEYOFU](https://www.linkedin.com/company/deyofu/),[HobbyMate](https://www.linkedin.com/company/hobbymate-official/about/)  
   
 
 - 🌱 I’m currently learning Flutter,NodeJS,ExpressJS,MongoDB,SwiftUI  
