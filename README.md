@@ -34,4 +34,4 @@ Production‑grade cross‑platform and backend systems.
 - Communication: REST, WebSocket  
 - Databases: SQLite, PostgreSQL, MongoDB  
 - DevOps: CI/CD pipelines, unit/widget tests  
-- Native interop when required 
+- Native interop when required  
