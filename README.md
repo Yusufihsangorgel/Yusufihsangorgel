@@ -1,29 +1,48 @@
-# Hi there 👋  
+<div align="center">
 
-I'm **Yusuf İhsan Görgel**, a software engineer passionate about building robust cross‑platform applications with **Flutter**. Over the past few years I've delivered production‑ready mobile and desktop apps, focusing on clean architecture and seamless user experiences.  
+# Yusuf İhsan Görgel
+### Software Engineer · Flutter Engineer
 
-## 🚀 What I Do  
+Production-grade cross-platform systems.  
+Architecture • Performance • Reliability
 
-- Architect and develop cross‑platform apps for iOS, Android & desktop  
-- Implement real‑time communication and live location tracking  
-- Integrate payment workflows and POS systems  
-- Design scalable codebases using Clean Architecture, SOLID & MVVM  
-- Build offline‑first experiences with local storage and i18n  
+<br/>
 
-## 🛠 Tech Stack  
+<a href="mailto:developeryusuf@icloud.com">Email</a> ·
+<a href="https://linkedin.com/in/yusuf-ihsan-gorgel">LinkedIn</a>
 
-- **Languages & Frameworks:** Flutter, Dart  
-- **State Management:** Riverpod, BLoC, GetX  
-- **Networking:** REST/JSON APIs, WebSockets  
-- **Mapping:** Google Maps SDK, live tracking, route drawing  
-- **Data:** SQLite / Drift, caching, offline‑first patterns  
-- **Backend (project‑based):** Node.js / Express, MongoDB  
-- **Testing:** Unit & widget tests  
+<br/><br/>
 
-## 🌐 Connect with Me  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yusufihsangorgel&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Yusufihsangorgel" />
 
-- 📧 Email: developeryusuf@icloud.com  
-- 💼 LinkedIn: [linkedin.com/in/yusuf-ihsan-gorgel](https://linkedin.com/in/yusuf-ihsan-gorgel)  
-- 💻 GitHub: [github.com/Yusufihsangorgel](https://github.com/Yusufihsangorgel)  
+<br/>
 
-Thanks for stopping by!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yusufihsangorgel&hide_border=true" />
+
+</div>
+
+---
+
+## Focus
+
+- Flutter (iOS · Android · Desktop)
+- Clean Architecture / SOLID / modular systems
+- Realtime & event-driven apps (WebSocket patterns)
+- Maps & location-heavy experiences
+- Payments & transactional flows
+- Offline-first data strategies
+- Testable, maintainable codebases
+
+## Engineering
+
+- Dart / Flutter
+- BLoC · Riverpod
+- REST · WebSocket
+- SQLite / Drift
+- CI mindset · release discipline
+- Native interop when needed
+
+---
+
+> I keep this profile minimal. Code speaks louder than text.
