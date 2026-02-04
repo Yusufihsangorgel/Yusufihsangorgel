@@ -1,38 +1,79 @@
-<div align="center">
-
+<div align="center">  
 # Yusuf İhsan Görgel  
-
-### Hi there! I'm a software engineer building cross‑platform & backend systems
-
-I build production‑grade Flutter apps and hack on backend frameworks in Java/Spring Boot, Node/TypeScript and Go.  
-I contribute to open source and love learning new tools.
-
-<br/>
-
-[![GitHub Stats](https://stats.programcx.cn/api?username=Yusufihsangorgel&show_icons=true&count_private=true&hide_title=true)](https://github.com/Yusufihsangorgel)  
-![Followers](https://img.shields.io/github/followers/Yusufihsangorgel?label=Followers&style=flat)  ![Stars](https://img.shields.io/github/stars/Yusufihsangorgel?label=Stars&style=flat)
-
-</div>
-
----
-
-## Focus  
-
-- Cross‑platform Flutter applications (iOS, Android, Desktop)  
-- Backend services with Java/Spring Boot, Node.js (TypeScript) & Go/Fiber  
-- Database design & data modelling (SQLite, PostgreSQL, MongoDB)  
-- Realtime & event‑driven systems  
-- Maps & location‑based features  
-- Payments & transactional workflows  
-- Offline‑first & caching strategies  
-- Clean Architecture & SOLID principles  
-- Testing, CI/CD & release discipline  
-
-## Engineering  
-
-- Languages: Dart, TypeScript, Java, Go  
-- Frameworks: Flutter, Spring Boot, Node.js/Express, Go Fiber  
-- Communication: REST, WebSocket  
-- Databases: SQLite, PostgreSQL, MongoDB  
-- DevOps: CI/CD pipelines, unit/widget tests  
-- Native interop when required 
+### Software Engineer • Flutter • Backend • Systems  
+  
+Production-grade mobile & backend systems.  
+Focused on performance, reliability and clean architecture.  
+  
+<br/>  
+  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yusufihsangorgel&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true"/>  
+  
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufihsangorgel&layout=compact&langs_count=6&theme=transparent&hide_border=true"/>  
+  
+<br/>  
+  
+<img src="https://img.shields.io/github/followers/Yusufihsangorgel?style=flat-square"/>  
+<img src="https://img.shields.io/github/stars/Yusufihsangorgel?style=flat-square"/>  
+  
+</div>  
+  
+---  
+  
+## About  
+  
+I build **production-ready Flutter applications** and **scalable backend services**.  
+My work focuses on **clean architecture, realtime systems, offline-first design and reliable releases**.  
+  
+I care about:  
+- maintainability  
+- performance  
+- predictable systems  
+- long-term engineering quality  
+  
+---  
+  
+## Stack  
+  
+**Mobile**  
+- Flutter (iOS / Android / Desktop)  
+- BLoC • Riverpod • GetX  
+- Offline-first architecture  
+- Maps, tracking, realtime updates  
+- Native bridges (Kotlin / Swift)  
+  
+**Backend**  
+- Java / Spring Boot  
+- Node.js / TypeScript  
+- Go / Fiber  
+  
+**Data**  
+- SQLite / Drift  
+- PostgreSQL  
+- MongoDB  
+  
+**Engineering**  
+- Clean Architecture • SOLID  
+- REST • WebSocket • event-driven systems  
+- Testing • CI/CD • production deployments  
+  
+---  
+  
+## Selected Work  
+  
+- **flutter-enterprise-template** – scalable Flutter starter with clean architecture, offline cache & realtime foundation  
+- **POS & payment systems** – tablet-centric payment + 3DS flows  
+- **Logistics tracking platforms** – live location + realtime events  
+- **Mobile + backend full-stack projects** in production  
+  
+---  
+  
+## Contact  
+  
+Antalya, Türkiye (Remote)  
+developeryusuf@icloud.com  
+LinkedIn: linkedin.com/in/yusuf-ihsan-gorgel  
+  
+---  
+  
+> Always open to building robust systems and meaningful products. 
