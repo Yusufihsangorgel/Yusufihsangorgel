@@ -1,20 +1,20 @@
-<div align="center">  
+<div align="center">
 
 # Yusuf İhsan Görgel  
-### Hi there! I'm a software engineer building cross‑platform & backend systems  
+
+### Hi there! I'm a software engineer building cross‑platform & backend systems
 
 I build production‑grade Flutter apps and hack on backend frameworks in Java/Spring Boot, Node/TypeScript and Go.  
-I contribute to open source and love learning new tools.  
+I contribute to open source and love learning new tools.
 
-<br/>  
+<br/>
 
 [![GitHub Stats](https://stats.programcx.cn/api?username=Yusufihsangorgel&show_icons=true&count_private=true&hide_title=true)](https://github.com/Yusufihsangorgel)  
-![Followers](https://img.shields.io/github/followers/Yusufihsangorgel?label=Followers&style=flat)  
-![Stars](https://img.shields.io/github/stars/Yusufihsangorgel?label=Stars&style=flat)  
+![Followers](https://img.shields.io/github/followers/Yusufihsangorgel?label=Followers&style=flat)  ![Stars](https://img.shields.io/github/stars/Yusufihsangorgel?label=Stars&style=flat)
 
-</div>  
+</div>
 
----  
+---
 
 ## Focus  
 
@@ -35,8 +35,4 @@ I contribute to open source and love learning new tools.
 - Communication: REST, WebSocket  
 - Databases: SQLite, PostgreSQL, MongoDB  
 - DevOps: CI/CD pipelines, unit/widget tests  
-- Native interop when required  
-
----  
-
-I keep this profile minimal — code and projects tell more than words. Feel free to reach out!
+- Native interop when required 
