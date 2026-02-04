@@ -1,10 +1,9 @@
 <div align="center">
 
 # Yusuf İhsan Görgel
-### Software Engineer · Flutter Engineer
+### Software Engineer
 
-Production-grade cross-platform systems.  
-Architecture • Performance • Reliability
+Building reliable cross‑platform and backend systems.
 
 <br/>
 
@@ -26,22 +25,24 @@ Architecture • Performance • Reliability
 
 ## Focus
 
-- Flutter (iOS · Android · Desktop)
-- Clean Architecture / SOLID / modular systems
-- Realtime & event-driven apps (WebSocket patterns)
-- Maps & location-heavy experiences
-- Payments & transactional flows
-- Offline-first data strategies
-- Testable, maintainable codebases
+- Cross‑platform Flutter applications (iOS, Android, Desktop)
+- Backend services with Java/Spring Boot, Node.js (TypeScript) & Go/Fiber
+- Database design & data modelling (SQLite, PostgreSQL, MongoDB)
+- Realtime & event‑driven systems
+- Maps & location‑based features
+- Payments & transactional workflows
+- Offline‑first & caching strategies
+- Clean Architecture & SOLID principles
+- Testing, CI/CD & release discipline
 
 ## Engineering
 
-- Dart / Flutter
-- BLoC · Riverpod
-- REST · WebSocket
-- SQLite / Drift
-- CI mindset · release discipline
-- Native interop when needed
+- Languages: Dart, TypeScript, Java, Go
+- Frameworks: Flutter, Spring Boot, Node.js/Express, Go Fiber
+- Communication: REST, WebSocket
+- Databases: SQLite, PostgreSQL, MongoDB
+- DevOps: CI/CD pipelines, unit/widget tests
+- Native interop when required
 
 ---
 
