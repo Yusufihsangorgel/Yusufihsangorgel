@@ -7,9 +7,7 @@ Production‑grade cross‑platform and backend systems.
 
 <br/>
 
-[![GitHub Stats](https://stats.programcx.cn/api?username=Yusufihsangorgel&show_icons=true&count_private=true&hide_title=true)](https://github.com/Yusufihsangorgel)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yusufihsangorgel)](https://github.com/Yusufihsangorgel)  
-[![Top Languages](https://stats.programcx.cn/api/top-langs?username=Yusufihsangorgel&layout=compact&langs_count=6)](https://github.com/Yusufihsangorgel)
+[![GitHub Stats](https://stats.programcx.cn/api?username=Yusufihsangorgel&show_icons=true&count_private=true&hide_title=true)](https://github.com/Yusufihsangorgel)
 
 </div>
 
