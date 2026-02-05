@@ -27,130 +27,29 @@ Most of my senior work is **private (NDA)** — I optimize systems, ship release
   <img src="https://img.shields.io/github/commit-activity/y/Yusufihsangorgel/Yusufihsangorgel?style=flat-square&label=Commits%20this%20year" />
 </p>
 
-
 </div>
 
 ---
 
-## What I focus on
+## Focus
 
-**Architecture**
-- Feature-first modularization (clear boundaries: UI ↔ domain ↔ data)
-- Dependency inversion, testable business logic, replaceable infrastructure
-- Predictable state modeling (tradeoff-driven, not framework-driven)
-
-**Performance**
-- Frame budget mindset (60/120fps), DevTools profiling, render discipline
-- Jank avoidance: rebuild minimization, list perf, async scheduling, caching
-
-**Native (iOS/Android)**
-- Flutter ↔ native boundaries (platform channels / plugin-style isolation)
-- Swift/Kotlin for device capabilities, performance-critical edges, and stability
-
-**Reliability & delivery**
-- Offline-first (caching + sync), resilient networking, retries/backoff
-- CI, testing, versioning, reproducible builds, release discipline
+- **Architecture:** feature-first modularization; explicit UI ↔ domain ↔ data boundaries; testable business logic
+- **Performance:** DevTools profiling; frame-time discipline (60/120fps); scroll/render stability
+- **Native (iOS/Android):** Swift/Kotlin for platform capabilities, plugin boundaries, and performance-critical paths
+- **Reliability & delivery:** offline-first patterns; resilient networking; CI/CD; release hygiene; regression control
 
 ---
 
-## How I structure real apps (feature-first + product core)
+## Public work
 
-This is the structure I use when I want **scale + clarity** without over-complicating things:
-
-- `feature/<name>/` → screen/flow-specific code  
-  - `view/` → **UI only** (no service calls inside widgets)  
-  - `view/mixin/` → lifecycle / page ops (initial fetch, listeners, navigation glue)  
-  - `view_model/` → state + orchestration  
-- `product/` → shared building blocks used across features  
-  - `init/` → bootstrap, DI, env, app-wide setup  
-  - `service/` → networking + cache clients  
-  - `model/` → shared DTOs / app models  
-  - `utility/` → widgets, constants, extensions, helpers  
-
-```mermaid
-flowchart TB
-  APPROOT["main.dart<br/>AppRoot"] --> INIT
-
-  subgraph FEATURE["feature/<feature_name>"]
-    direction TB
-    subgraph VIEW["view"]
-      UI["home_view.dart<br/>UI only"]
-      MIXIN["home_view_mixin.dart<br/>page lifecycle ops"]
-    end
-    VM["home_view_model.dart<br/>state + orchestration"]
-    UI -->|binds| VM
-    MIXIN -->|triggers| VM
-  end
-
-  subgraph PRODUCT["product (shared)"]
-    direction TB
-    INIT["init<br/>bootstrap + DI"]
-    SVC["service<br/>network + cache clients"]
-    MODEL["model<br/>DTOs / shared models"]
-    UTIL["utility<br/>widgets / constants / extensions"]
-  end
-
-  INIT -->|provides| VM
-  VM -->|uses| SVC
-  VM -->|uses| MODEL
-  VM -->|uses| UTIL
-
-  subgraph INFRA["infrastructure"]
-    direction TB
-    API["remote<br/>REST / WebSocket"]
-    LOCAL["local<br/>SQLite / secure storage"]
-    NATIVE["native<br/>Swift / Kotlin modules"]
-  end
-
-  SVC --> API
-  SVC --> LOCAL
-  SVC --> NATIVE
-```
-
+- Public repositories focus on reusable patterns, tooling, and experiments.
+- For deeper context, I can share anonymized case studies (no client/IP details).
 
 ---
 
-## Private work (NDA) — what I can say publicly
+## Stack
 
-- Shipping and maintaining **multi-module mobile apps**
-- Building **stable release pipelines** and reducing regression risk
-- Performance work: **profiling**, **memory/CPU hotspots**, smooth UI
-- Integrations: **auth / realtime / offline sync / payments** (context-dependent)
-
-> If needed, I can publish anonymized “case-study” style writeups (no IP, no client data) as Markdown articles in this repo.
-
----
-
-## Engineering proof (process > hype)
-
-- **Code review discipline:** small PRs, clear diffs, rollback-friendly changes
-- **Testing strategy:** unit-first for domain, targeted widget/integration tests
-- **Observability mindset:** logs, crash signals, performance baselines
-- **Documentation:** decisions recorded (ADR-style), onboarding-friendly structure
-
----
-
-## Tech stack
-
-**Mobile**
-- Flutter (Dart), Swift (SwiftUI), Kotlin (Android)
-
-**Backend (when needed)**
-- Java (Spring Boot), Node.js (TypeScript), Go
-
-**Data**
-- SQLite / local persistence, PostgreSQL, MongoDB
-
-**Engineering**
-- REST, WebSocket, testing, CI/CD
-
----
-
-## Contact
-
-- Email: **developeryusuf@icloud.com**
-- LinkedIn: https://linkedin.com/in/yusuf-ihsan-gorgel
-
----
-
-> If it ships reliably, it’s engineered.
+- **Mobile:** Flutter (Dart), Swift, Kotlin
+- **Backend (as needed):** Go, Java, Node.js
+- **Data:** SQLite, PostgreSQL
+- **Engineering:** REST/WebSocket, testing, CI/CD
