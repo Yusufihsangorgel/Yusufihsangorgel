@@ -21,11 +21,6 @@ Most of my senior work is **private (NDA)** — I optimize systems, ship release
   <img alt="Android" src="https://img.shields.io/badge/Android-111111?style=flat-square&logo=android">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Yusufihsangorgel?style=flat-square&label=Followers" />
-  <img src="https://img.shields.io/github/stars/Yusufihsangorgel?style=flat-square&label=Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/Yusufihsangorgel/Yusufihsangorgel?style=flat-square&label=Commits%20this%20year" />
-</p>
 
 </div>
 
