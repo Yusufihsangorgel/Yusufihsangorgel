@@ -27,13 +27,4 @@ Currently building SaaS products and open-source developer tools.
 
 ---
 
-<a href="https://github.com/Yusufihsangorgel">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yusufihsangorgel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Yusufihsangorgel">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufihsangorgel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-</a>
-
----
-
 <sub>📍 Antalya, Turkey · ✉️ developeryusuf@icloud.com · 🌐 [developeryusuf.com](https://developeryusuf.com)</sub>
