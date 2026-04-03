@@ -21,7 +21,7 @@ Currently building SaaS products and open-source developer tools.
 
 #### Featured projects
 
-🎬 **[Flutter Cinematic Portfolio](https://github.com/Yusufihsangorgel/Flutter-Web-Portfolio)** — A portfolio site built with Flutter Web. Scene-driven backgrounds, particle systems, 7 languages, 208 tests. Not a template.
+🎬 **[Flutter Cinematic Portfolio](https://github.com/Yusufihsangorgel/Flutter-Web-Portfolio)** — A portfolio site built with Flutter Web. Scene-driven backgrounds, particle systems, 7 languages, 185 tests. Not a template.
 
 <!-- More projects coming soon -->
 
