@@ -1,30 +1,26 @@
-### Hey, I'm Yusuf 👋
+### Hi, I'm Yusuf 👋
 
-I'm a software engineer from Turkey focused on **Flutter** and **Go**. I build mobile apps, web frontends, and the backend systems that power them — from database schemas to Docker deployments.
+Software engineer from Turkey. I build **Flutter** apps and the **Go** backends behind them — and lately, open-source tooling around LLM/MCP reliability.
 
-Currently building SaaS products and open-source developer tools.
+Most of what I ship runs on infrastructure I operate myself: a small **self-hosted platform** — a Go API gateway, background workers, and self-hosted auth across a 4-node cluster — running in production behind a suite of apps. I lean toward small, readable, single-binary tools over heavy dependencies.
 
----
+**Currently building:** Go-native tooling for LLM guardrails and MCP conformance — the reliability plumbing I wished existed while running the above.
 
-#### What I work with
+#### Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+Go (Fiber · Asynq) · Flutter / Dart · TypeScript / Next.js · PostgreSQL · Redis · Docker & self-hosted (Swarm, Dokploy)
 
----
+#### Selected work
 
-#### Featured projects
+**[constellation_particles](https://github.com/Yusufihsangorgel/constellation_particles)** — a mouse-reactive constellation particle field for Flutter. A spatial hash grid keeps the connecting-lines pass close to O(n) instead of O(n²). Zero runtime dependencies.
 
-🎬 **[Flutter Cinematic Portfolio](https://github.com/Yusufihsangorgel/Flutter-Web-Portfolio)** — A portfolio site built with Flutter Web. Scene-driven backgrounds, particle systems, 7 languages, 185 tests. Not a template.
+**[Flutter Cinematic Portfolio](https://github.com/Yusufihsangorgel/Flutter-Web-Portfolio)** — a portfolio built in Flutter Web: scene-driven backgrounds, a dependency-free particle engine, 7 languages, 185 tests. Not a template.
 
-<!-- More projects coming soon -->
+#### Writing & elsewhere
 
----
+- Blog — [developeryusuf.com](https://developeryusuf.com)
+- dev.to — [@yusufihsangorgel](https://dev.to/yusufihsangorgel)
+- Medium — [@developeryusufihsan](https://medium.com/@developeryusufihsan)
+- LinkedIn — [yusuf-ihsan-görgel](https://www.linkedin.com/in/yusuf-ihsan-g%C3%B6rgel/)
 
-<sub>📍 Antalya, Turkey · ✉️ developeryusuf@icloud.com · 🌐 [developeryusuf.com](https://developeryusuf.com)</sub>
+<sub>📍 Antalya, Turkey (remote) · ✉️ developeryusuf@icloud.com</sub>
