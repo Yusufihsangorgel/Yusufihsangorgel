@@ -1,10 +1,8 @@
 ### Hi, I'm Yusuf 👋
 
-Software engineer from Turkey. I build **Flutter** apps and the **Go** backends behind them — and lately, open-source tooling around LLM/MCP reliability.
+Software engineer from Turkey. I build **Flutter** apps and the **Go** backends behind them, and I run most of what I ship on infrastructure I operate myself.
 
-Most of what I ship runs on infrastructure I operate myself: a small **self-hosted platform** — a Go API gateway, background workers, and self-hosted auth across a 4-node cluster — running in production behind a suite of apps. I lean toward small, readable, single-binary tools over heavy dependencies.
-
-**Currently building:** Go-native tooling for LLM guardrails and MCP conformance — the reliability plumbing I wished existed while running the above.
+That infrastructure is a small **self-hosted platform** — a single Go API gateway (17 product modules, ~500 routes), background workers, and self-hosted auth — serving a suite of apps from a handful of nodes. I lean toward small, readable, single-binary tools over heavy dependencies, and I write about the decisions behind them.
 
 #### Stack
 
@@ -12,13 +10,15 @@ Go (Fiber · Asynq) · Flutter / Dart · TypeScript / Next.js · PostgreSQL · R
 
 #### Selected work
 
-**[constellation_particles](https://github.com/Yusufihsangorgel/constellation_particles)** — a mouse-reactive constellation particle field for Flutter. A spatial hash grid keeps the connecting-lines pass close to O(n) instead of O(n²). Zero runtime dependencies.
+**[go-multitenant-gateway](https://github.com/Yusufihsangorgel/go-multitenant-gateway)** — a single-binary multi-tenant API gateway in Go: tenant resolution, per-tenant rate limiting, JWT auth, and a module-per-product pattern. The reference version of the gateway I run in production, with the architecture tradeoffs written up.
+
+**[constellation_particles](https://github.com/Yusufihsangorgel/constellation_particles)** — a mouse-reactive particle field for Flutter. A spatial hash grid keeps the connecting-lines pass close to O(n) instead of O(n²). Zero runtime dependencies. On [pub.dev](https://pub.dev/packages/constellation_particles).
 
 **[Flutter Cinematic Portfolio](https://github.com/Yusufihsangorgel/Flutter-Web-Portfolio)** — a portfolio built in Flutter Web: scene-driven backgrounds, a dependency-free particle engine, 7 languages, 185 tests. Not a template.
 
 #### Writing & elsewhere
 
-- Blog — [developeryusuf.com](https://developeryusuf.com)
+- Blog — [yusufihsangorgel.github.io](https://yusufihsangorgel.github.io)
 - dev.to — [@yusufihsangorgel](https://dev.to/yusufihsangorgel)
 - Medium — [@developeryusufihsan](https://medium.com/@developeryusufihsan)
 - LinkedIn — [yusuf-ihsan-görgel](https://www.linkedin.com/in/yusuf-ihsan-g%C3%B6rgel/)
