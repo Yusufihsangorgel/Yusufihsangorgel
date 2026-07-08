@@ -12,9 +12,11 @@ Go (Fiber · Asynq) · Flutter / Dart · TypeScript / Next.js · PostgreSQL · R
 
 **[go-multitenant-gateway](https://github.com/Yusufihsangorgel/go-multitenant-gateway)** — a single-binary multi-tenant API gateway in Go: tenant resolution, per-tenant rate limiting, JWT auth, and a module-per-product pattern. The reference version of the gateway I run in production, with the architecture tradeoffs written up.
 
+**[redis_task_queue](https://github.com/Yusufihsangorgel/redis_task_queue)** — a small Redis-backed task queue for server-side Dart: enqueue from the request path, process in a worker with retries, a dead-letter list, and weighted queues. The Asynq model, brought to a gap in the Dart ecosystem. On [pub.dev](https://pub.dev/packages/redis_task_queue).
+
 **[constellation_particles](https://github.com/Yusufihsangorgel/constellation_particles)** — a mouse-reactive particle field for Flutter. A spatial hash grid keeps the connecting-lines pass close to O(n) instead of O(n²). Zero runtime dependencies. On [pub.dev](https://pub.dev/packages/constellation_particles).
 
-**[Flutter Cinematic Portfolio](https://github.com/Yusufihsangorgel/Flutter-Web-Portfolio)** — a portfolio built in Flutter Web: scene-driven backgrounds, a dependency-free particle engine, 7 languages, 185 tests. Not a template.
+**[Flutter Cinematic Portfolio](https://github.com/Yusufihsangorgel/Flutter-Web-Portfolio)** — a portfolio built in Flutter Web: scene-driven backgrounds, a dependency-free particle engine, 7 languages, 187 tests. Not a template.
 
 #### Writing & elsewhere
 
