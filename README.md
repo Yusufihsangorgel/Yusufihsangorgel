@@ -10,6 +10,8 @@ Go (Fiber · Asynq) · Flutter / Dart · TypeScript / Next.js · PostgreSQL · R
 
 #### Selected work
 
+**[queue-inspector-mcp](https://github.com/Yusufihsangorgel/queue-inspector-mcp)** — an MCP server that lets an AI agent inspect and operate Redis-backed job queues (Asynq and BullMQ): per-state counts, job detail, safe retries and dead-letter handling. Mutations run each library's own atomic scripts; a read-only mode strips them entirely.
+
 **[go-multitenant-gateway](https://github.com/Yusufihsangorgel/go-multitenant-gateway)** — a single-binary multi-tenant API gateway in Go: tenant resolution, per-tenant rate limiting, JWT auth, and a module-per-product pattern. The reference version of the gateway I run in production, with the architecture tradeoffs written up.
 
 **[redis_task_queue](https://github.com/Yusufihsangorgel/redis_task_queue)** — a small Redis-backed task queue for server-side Dart: enqueue from the request path, process in a worker with retries, a dead-letter list, and weighted queues. The Asynq model, brought to a gap in the Dart ecosystem. On [pub.dev](https://pub.dev/packages/redis_task_queue).
