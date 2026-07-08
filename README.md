@@ -20,7 +20,14 @@ Go (Fiber · Asynq) · Flutter / Dart · TypeScript / Next.js · PostgreSQL · R
 
 **[Flutter Cinematic Portfolio](https://github.com/Yusufihsangorgel/Flutter-Web-Portfolio)** — a portfolio built in Flutter Web: scene-driven backgrounds, a dependency-free particle engine, 7 languages, 187 tests. Not a template.
 
-#### Writing & elsewhere
+#### Recent writing
+
+- [I Run 17 Products From One Go Binary. Here's the Case For and Against.](https://yusufihsangorgel.github.io/2026/07/07/one-go-binary-for-and-against.html)
+- [I Built an LLM Filter That Prefers Silence Over Slop — and the Eval Harness That Keeps It Honest](https://dev.to/yusufihsangorgel/i-built-an-llm-filter-that-prefers-silence-over-slop-and-the-eval-harness-that-keeps-it-honest-3pce)
+- [Server-Side Dart Doesn't Have a Task Queue. So I Ported the Idea From Go.](https://yusufihsangorgel.github.io/2026/07/08/asynq-for-dart.html)
+- [In Praise of the Boring Library](https://medium.com/@developeryusufihsan/in-praise-of-the-boring-library-e2b2430ba7e2)
+
+#### Elsewhere
 
 - Blog — [yusufihsangorgel.github.io](https://yusufihsangorgel.github.io)
 - dev.to — [@yusufihsangorgel](https://dev.to/yusufihsangorgel)
