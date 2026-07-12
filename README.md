@@ -1,8 +1,8 @@
 ### Hi, I'm Yusuf
 
-Backend engineer from Turkey. Mostly Go these days — small single-binary
-services, background workers (Redis / Asynq), and Postgres — plus the
-self-hosted infra I run them on. Before that, a few years of Flutter/mobile.
+Software engineer from Turkey. These days I mostly build in Go — small
+single-binary services, background workers (Redis / Asynq), and Postgres —
+plus the self-hosted infra I run them on. Flutter/mobile is my day job.
 
 I prefer small, readable tools over big frameworks, and I write up the
 tradeoffs on my [blog](https://yusufihsangorgel.github.io).
