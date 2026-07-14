@@ -1,6 +1,8 @@
 ### Yusuf İhsan Görgel
 
-Senior Flutter engineer. These days most of my learning time goes into the backend side — Go, RabbitMQ, Kafka, Redis, Elasticsearch — and I run what I build on my own servers.
+Senior Flutter engineer.
+
+My current focus is backend and platform engineering: Go, microservices, distributed systems — PostgreSQL, Redis, RabbitMQ, Kafka, Elasticsearch, gRPC, Docker, Kubernetes, CI/CD, observability (OpenTelemetry, Prometheus, Grafana), AWS. Everything I build runs on my own servers.
 
 - [queue-inspector-mcp](https://github.com/Yusufihsangorgel/queue-inspector-mcp) — read-only MCP server for Redis-backed job queues (Asynq / BullMQ)
 - [go-multitenant-gateway](https://github.com/Yusufihsangorgel/go-multitenant-gateway) — single-binary multi-tenant API gateway in Go
