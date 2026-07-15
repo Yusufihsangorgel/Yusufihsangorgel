@@ -4,11 +4,12 @@ I build and operate products across Flutter, Dart, and Go. My work sits at the b
 
 #### Open source
 
+- **Merged · [Dart MCP #524](https://github.com/dart-lang/ai/pull/524)** — separated reusable server feature registration from the legacy initialization handshake, preserving legacy compatibility while making the lifecycle usable beyond that transport path.
 - [FlutterFire #18443](https://github.com/firebase/flutterfire/pull/18443) — fixed a WebKit initialization race by making Firebase script loading deterministic.
 - [Drift #3835](https://github.com/simolus3/drift/pull/3835) — corrected SQLite boolean-default schema verification with regression coverage.
 - [Flutter Form Builder #1512](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder/pull/1512) — fixed invalid dropdown initial values on the first build.
 - [Fiber Recipes #4997](https://github.com/gofiber/recipes/pull/4997) — added a tested Fiber and Asynq background-jobs recipe.
-- [Flutter #189500](https://github.com/flutter/flutter/pull/189500) — draft fix for the web first-frame event firing before rendering is visible.
+- **Under review · [Flutter #189500](https://github.com/flutter/flutter/pull/189500)** — makes the web first-frame event wait for asynchronous scene rendering and the next browser frame, preventing splash removal before SkWasm rasterization completes.
 
 #### Selected systems
 
