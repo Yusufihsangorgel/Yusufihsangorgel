@@ -13,8 +13,6 @@ I build and operate products across Flutter, Dart, and Go. My work sits at the b
 
 #### Packages on pub.dev
 
-Ten packages published in one push, each with CI, an adversarial review pass, and honest limits sections:
-
 - [simdjson_dart](https://pub.dev/packages/simdjson_dart) — simdjson over FFI; lazy JSON Pointer access reads selected fields 5-15x faster than full decoding.
 - [resilience](https://pub.dev/packages/resilience) — retry with backoff and jitter, circuit breaker, timeout, rate limiter, and bulkhead, zero dependencies.
 - [instructor_dart](https://pub.dev/packages/instructor_dart) — typed, validated structured outputs from LLMs without code generation.
