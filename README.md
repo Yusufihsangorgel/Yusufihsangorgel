@@ -1,34 +1,52 @@
-### Software Engineer
+Software engineer working across Flutter, Dart, and Go, mostly where client
+apps, native code, local data, and infrastructure meet and have to stay correct
+under load. I publish open-source packages, contribute upstream, and write about
+the work.
 
-I build and operate products across Flutter, Dart, and Go. My work sits at the boundaries where client applications, local data, native integrations, queues, and production infrastructure have to remain understandable and correct.
+#### Native, over FFI
 
-#### Open source
+Bindings that compile real C and C++ libraries from source through Dart's build
+hooks, so there is nothing to install and the same code runs on Linux, macOS,
+and Windows.
 
-- **Merged · [Dart MCP #524](https://github.com/dart-lang/ai/pull/524)** — separated reusable server feature registration from the legacy initialization handshake, preserving legacy compatibility while making the lifecycle usable beyond that transport path.
-- [FlutterFire #18443](https://github.com/firebase/flutterfire/pull/18443) — fixed a WebKit initialization race by making Firebase script loading deterministic.
-- [Drift #3835](https://github.com/simolus3/drift/pull/3835) — corrected SQLite boolean-default schema verification with regression coverage.
-- [Flutter Form Builder #1512](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder/pull/1512) — fixed invalid dropdown initial values on the first build.
-- [Fiber Recipes #4997](https://github.com/gofiber/recipes/pull/4997) — added a tested Fiber and Asynq background-jobs recipe.
-- **Under review · [Flutter #189500](https://github.com/flutter/flutter/pull/189500)** — makes the web first-frame event wait for asynchronous scene rendering and the next browser frame, preventing splash removal before SkWasm rasterization completes.
+- [simdjson_dart](https://pub.dev/packages/simdjson_dart) — SIMD JSON, lazy field access over simdjson
+- [blake3_ffi](https://github.com/Yusufihsangorgel/blake3_ffi) — BLAKE3 hashing at native throughput
+- [re2](https://github.com/Yusufihsangorgel/re2) — linear-time regex, immune to catastrophic backtracking
+- [image_ffi](https://github.com/Yusufihsangorgel/image_ffi) — decode, resize, and encode images via stb
+- [audio_decode](https://github.com/Yusufihsangorgel/audio_decode) — Ogg Vorbis and MP3 to PCM
+- [xlsxwriter](https://github.com/Yusufihsangorgel/xlsxwriter) — write .xlsx with a constant-memory mode
 
-#### Packages on pub.dev
+#### LLM tooling
 
-- [simdjson_dart](https://pub.dev/packages/simdjson_dart) — simdjson over FFI; lazy JSON Pointer access reads selected fields 5-15x faster than full decoding.
-- [resilience](https://pub.dev/packages/resilience) — retry with backoff and jitter, circuit breaker, timeout, rate limiter, and bulkhead, zero dependencies.
-- [instructor_dart](https://pub.dev/packages/instructor_dart) — typed, validated structured outputs from LLMs without code generation.
-- [mcp_probe](https://pub.dev/packages/mcp_probe) — test harness and conformance checks for MCP servers, built on the official dart_mcp client.
-- [llm_eval](https://pub.dev/packages/llm_eval) — assertion checks, LLM-as-judge scoring, and response caching for testing LLM output in CI.
-- [rag_kit](https://pub.dev/packages/rag_kit) — chunking, embeddings, vector search, and context building with a bring-your-own-embedder contract.
-- [vector_kit](https://pub.dev/packages/vector_kit) — SIMD-accelerated vector math and top-k search over packed matrices.
-- [find_in_page](https://pub.dev/packages/find_in_page) — Ctrl+F for Flutter: match highlighting, navigation, and scroll-into-view.
-- [skeleton_shimmer](https://pub.dev/packages/skeleton_shimmer) — shimmer loading effect, pixel-compatible with the shimmer package, with reduced-motion support.
-- [text_autosize](https://pub.dev/packages/text_autosize) — auto-sizing text, TextScaler-aware and API-compatible with auto_size_text.
+- [instructor_dart](https://pub.dev/packages/instructor_dart) — typed, validated structured outputs
+- [rag_kit](https://pub.dev/packages/rag_kit) — chunking, embeddings, retrieval, context building
+- [llm_eval](https://pub.dev/packages/llm_eval) — assertions and LLM-as-judge scoring for CI
+- [mcp_probe](https://pub.dev/packages/mcp_probe) — a conformance harness for MCP servers
 
-#### Selected systems
+#### Flutter
 
-- [queue-inspector-mcp](https://github.com/Yusufihsangorgel/queue-inspector-mcp) — queue inspection and operations for Asynq and BullMQ.
-- [go-multitenant-gateway](https://github.com/Yusufihsangorgel/go-multitenant-gateway) — tenant resolution, JWT authentication, and per-tenant rate limiting in one Go binary.
-- [redis_task_queue](https://github.com/Yusufihsangorgel/redis_task_queue) — a server-side Dart queue with retries, dead letters, and weighted scheduling.
-- [constellation_particles](https://github.com/Yusufihsangorgel/constellation_particles) — a dependency-free Flutter particle field with spatial-grid neighbour lookup.
+- [photo_zoom](https://pub.dev/packages/photo_zoom) — pan, zoom, and gallery, zooming at the touch point
+- [expandable_plus](https://github.com/Yusufihsangorgel/expandable_plus) — accordion panels, one open at a time
+- [skeleton_shimmer](https://pub.dev/packages/skeleton_shimmer) — shimmer loading placeholders
+- [text_autosize](https://pub.dev/packages/text_autosize) — text that fits its space
+- [find_in_page](https://pub.dev/packages/find_in_page) — Ctrl+F for Flutter
+- [constellation_particles](https://pub.dev/packages/constellation_particles) — an animated particle field
+
+#### Infrastructure
+
+- [resilience](https://pub.dev/packages/resilience) — retries, circuit breaker, rate limiter, bulkhead
+- [vector_kit](https://pub.dev/packages/vector_kit) — vector math and top-k search over packed matrices
+- [redis_task_queue](https://pub.dev/packages/redis_task_queue) — a server-side queue with retries and dead letters
+- [flutter_prerender](https://pub.dev/packages/flutter_prerender) — prerender Flutter web for search engines
+- [queue-inspector-mcp](https://github.com/Yusufihsangorgel/queue-inspector-mcp) — queue operations for Asynq and BullMQ
+- [go-multitenant-gateway](https://github.com/Yusufihsangorgel/go-multitenant-gateway) — tenant routing, auth, and rate limiting in Go
+
+#### Upstream
+
+Merged fixes and features into [dart-lang/ai](https://github.com/dart-lang/ai/pull/524),
+[FlutterFire](https://github.com/firebase/flutterfire/pull/18443),
+[Drift](https://github.com/simolus3/drift/pull/3835), and
+[Flutter Form Builder](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder/pull/1512);
+an engine fix for Flutter web's first frame is [in review](https://github.com/flutter/flutter/pull/189500).
 
 [Portfolio](https://developeryusuf.com) · [Writing](https://yusufihsangorgel.github.io) · [dev.to](https://dev.to/yusufihsangorgel) · [Medium](https://medium.com/@developeryusufihsan) · [LinkedIn](https://www.linkedin.com/in/yusuf-ihsan-g%C3%B6rgel/)
