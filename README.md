@@ -9,37 +9,37 @@ Bindings that compile real C and C++ libraries from source through Dart's build
 hooks, so there is nothing to install and the same code runs on Linux, macOS,
 and Windows.
 
-- [simdjson_dart](https://pub.dev/packages/simdjson_dart) — SIMD JSON, lazy field access over simdjson
-- [blake3_ffi](https://github.com/Yusufihsangorgel/blake3_ffi) — BLAKE3 hashing at native throughput
-- [re2](https://github.com/Yusufihsangorgel/re2) — linear-time regex, immune to catastrophic backtracking
-- [image_ffi](https://github.com/Yusufihsangorgel/image_ffi) — decode, resize, and encode images via stb
-- [audio_decode](https://github.com/Yusufihsangorgel/audio_decode) — Ogg Vorbis and MP3 to PCM
-- [xlsxwriter](https://github.com/Yusufihsangorgel/xlsxwriter) — write .xlsx with a constant-memory mode
+- [simdjson_dart](https://pub.dev/packages/simdjson_dart): SIMD JSON, lazy field access over simdjson
+- [blake3_ffi](https://github.com/Yusufihsangorgel/blake3_ffi): BLAKE3 hashing at native throughput
+- [re2](https://github.com/Yusufihsangorgel/re2): linear-time regex, immune to catastrophic backtracking
+- [image_ffi](https://github.com/Yusufihsangorgel/image_ffi): decode, resize, and encode images via stb
+- [audio_decode](https://github.com/Yusufihsangorgel/audio_decode): Ogg Vorbis and MP3 to PCM
+- [xlsxwriter](https://github.com/Yusufihsangorgel/xlsxwriter): write .xlsx with a constant-memory mode
 
 #### LLM tooling
 
-- [instructor_dart](https://pub.dev/packages/instructor_dart) — typed, validated structured outputs
-- [rag_kit](https://pub.dev/packages/rag_kit) — chunking, embeddings, retrieval, context building
-- [llm_eval](https://pub.dev/packages/llm_eval) — assertions and LLM-as-judge scoring for CI
-- [mcp_probe](https://pub.dev/packages/mcp_probe) — a conformance harness for MCP servers
+- [instructor_dart](https://pub.dev/packages/instructor_dart): typed, validated structured outputs
+- [rag_kit](https://pub.dev/packages/rag_kit): chunking, embeddings, retrieval, context building
+- [llm_eval](https://pub.dev/packages/llm_eval): assertions and LLM-as-judge scoring for CI
+- [mcp_probe](https://pub.dev/packages/mcp_probe): a conformance harness for MCP servers
 
 #### Flutter
 
-- [photo_zoom](https://pub.dev/packages/photo_zoom) — pan, zoom, and gallery, zooming at the touch point
-- [expandable_plus](https://github.com/Yusufihsangorgel/expandable_plus) — accordion panels, one open at a time
-- [skeleton_shimmer](https://pub.dev/packages/skeleton_shimmer) — shimmer loading placeholders
-- [text_autosize](https://pub.dev/packages/text_autosize) — text that fits its space
-- [find_in_page](https://pub.dev/packages/find_in_page) — Ctrl+F for Flutter
-- [constellation_particles](https://pub.dev/packages/constellation_particles) — an animated particle field
+- [photo_zoom](https://pub.dev/packages/photo_zoom): pan, zoom, and gallery, zooming at the touch point
+- [expandable_plus](https://github.com/Yusufihsangorgel/expandable_plus): accordion panels, one open at a time
+- [skeleton_shimmer](https://pub.dev/packages/skeleton_shimmer): shimmer loading placeholders
+- [text_autosize](https://pub.dev/packages/text_autosize): text that fits its space
+- [find_in_page](https://pub.dev/packages/find_in_page): Ctrl+F for Flutter
+- [constellation_particles](https://pub.dev/packages/constellation_particles): an animated particle field
 
 #### Infrastructure
 
-- [resilience](https://pub.dev/packages/resilience) — retries, circuit breaker, rate limiter, bulkhead
-- [vector_kit](https://pub.dev/packages/vector_kit) — vector math and top-k search over packed matrices
-- [redis_task_queue](https://pub.dev/packages/redis_task_queue) — a server-side queue with retries and dead letters
-- [flutter_prerender](https://pub.dev/packages/flutter_prerender) — prerender Flutter web for search engines
-- [queue-inspector-mcp](https://github.com/Yusufihsangorgel/queue-inspector-mcp) — queue operations for Asynq and BullMQ
-- [go-multitenant-gateway](https://github.com/Yusufihsangorgel/go-multitenant-gateway) — tenant routing, auth, and rate limiting in Go
+- [resilience](https://pub.dev/packages/resilience): retries, circuit breaker, rate limiter, bulkhead
+- [vector_kit](https://pub.dev/packages/vector_kit): vector math and top-k search over packed matrices
+- [redis_task_queue](https://pub.dev/packages/redis_task_queue): a server-side queue with retries and dead letters
+- [flutter_prerender](https://pub.dev/packages/flutter_prerender): prerender Flutter web for search engines
+- [queue-inspector-mcp](https://github.com/Yusufihsangorgel/queue-inspector-mcp): queue operations for Asynq and BullMQ
+- [go-multitenant-gateway](https://github.com/Yusufihsangorgel/go-multitenant-gateway): tenant routing, auth, and rate limiting in Go
 
 #### Upstream
 
