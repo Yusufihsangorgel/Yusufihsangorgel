@@ -10,11 +10,11 @@ hooks, so there is nothing to install and the same code runs on Linux, macOS,
 and Windows.
 
 - [simdjson_dart](https://pub.dev/packages/simdjson_dart): SIMD JSON, lazy field access over simdjson
-- [blake3_ffi](https://github.com/Yusufihsangorgel/blake3_ffi): BLAKE3 hashing at native throughput
-- [re2](https://github.com/Yusufihsangorgel/re2): linear-time regex, immune to catastrophic backtracking
-- [image_ffi](https://github.com/Yusufihsangorgel/image_ffi): decode, resize, and encode images via stb
-- [audio_decode](https://github.com/Yusufihsangorgel/audio_decode): Ogg Vorbis and MP3 to PCM
-- [xlsxwriter](https://github.com/Yusufihsangorgel/xlsxwriter): write .xlsx with a constant-memory mode
+- [blake3_ffi](https://pub.dev/packages/blake3_ffi): BLAKE3 hashing at native throughput
+- [re2](https://pub.dev/packages/re2): linear-time regex, immune to catastrophic backtracking
+- [image_ffi](https://pub.dev/packages/image_ffi): decode, resize, and encode images via stb
+- [audio_decode](https://pub.dev/packages/audio_decode): Ogg Vorbis and MP3 to PCM
+- [xlsxwriter](https://pub.dev/packages/xlsxwriter): write .xlsx with a constant-memory mode
 
 #### LLM tooling
 
@@ -22,11 +22,13 @@ and Windows.
 - [rag_kit](https://pub.dev/packages/rag_kit): chunking, embeddings, retrieval, context building
 - [llm_eval](https://pub.dev/packages/llm_eval): assertions and LLM-as-judge scoring for CI
 - [mcp_probe](https://pub.dev/packages/mcp_probe): a conformance harness for MCP servers
+- [hf_tokenizers](https://pub.dev/packages/hf_tokenizers): byte-exact HuggingFace tokenization over FFI
+- [stream_struct](https://pub.dev/packages/stream_struct): a token stream parsed into the typed object as it fills in
 
 #### Flutter
 
 - [photo_zoom](https://pub.dev/packages/photo_zoom): pan, zoom, and gallery, zooming at the touch point
-- [expandable_plus](https://github.com/Yusufihsangorgel/expandable_plus): accordion panels, one open at a time
+- [expandable_plus](https://pub.dev/packages/expandable_plus): accordion panels, one open at a time
 - [skeleton_shimmer](https://pub.dev/packages/skeleton_shimmer): shimmer loading placeholders
 - [text_autosize](https://pub.dev/packages/text_autosize): text that fits its space
 - [find_in_page](https://pub.dev/packages/find_in_page): Ctrl+F for Flutter
