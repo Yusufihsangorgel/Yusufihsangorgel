@@ -45,10 +45,14 @@ and Windows.
 
 #### Upstream
 
-Merged fixes and features into [dart-lang/ai](https://github.com/dart-lang/ai/pull/524),
+Merged fixes and features into [dart-lang/ai](https://github.com/dart-lang/ai/pull/524)
+([twice](https://github.com/dart-lang/ai/pull/528)),
 [FlutterFire](https://github.com/firebase/flutterfire/pull/18443),
-[Drift](https://github.com/simolus3/drift/pull/3835), and
-[Flutter Form Builder](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder/pull/1512);
-an engine fix for Flutter web's first frame is [in review](https://github.com/flutter/flutter/pull/189500).
+[Drift](https://github.com/simolus3/drift/pull/3835),
+[Flutter Form Builder](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder/pull/1512),
+and [Bun](https://github.com/uptrace/bun/pull/1390) on the Go side.
+In review: an [engine fix](https://github.com/flutter/flutter/pull/189500) for Flutter web's
+first frame, and [decoded-message channels](https://github.com/dart-lang/ai/pull/531)
+for package:dart_mcp.
 
 [Portfolio](https://developeryusuf.com) · [Writing](https://yusufihsangorgel.github.io) · [dev.to](https://dev.to/yusufihsangorgel) · [Medium](https://medium.com/@developeryusufihsan) · [LinkedIn](https://www.linkedin.com/in/yusuf-ihsan-g%C3%B6rgel/)
