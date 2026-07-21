@@ -45,14 +45,26 @@ and Windows.
 
 #### Upstream
 
-Merged fixes and features into [dart-lang/ai](https://github.com/dart-lang/ai/pull/524)
-([twice](https://github.com/dart-lang/ai/pull/528)),
+Current focus: package:dart_mcp's transport rework for the 2026 MCP
+specification. Three PRs merged so far: the
+[lifecycle split](https://github.com/dart-lang/ai/pull/524),
+[request-scoped dispatch](https://github.com/dart-lang/ai/pull/528), and
+[decoded-message channels](https://github.com/dart-lang/ai/pull/531).
+Merged fixes elsewhere:
+[shelf](https://github.com/dart-lang/shelf/pull/536),
 [FlutterFire](https://github.com/firebase/flutterfire/pull/18443),
 [Drift](https://github.com/simolus3/drift/pull/3835),
 [Flutter Form Builder](https://github.com/flutter-form-builder-ecosystem/flutter_form_builder/pull/1512),
-and [Bun](https://github.com/uptrace/bun/pull/1390) on the Go side.
-In review: an [engine fix](https://github.com/flutter/flutter/pull/189500) for Flutter web's
-first frame, and [decoded-message channels](https://github.com/dart-lang/ai/pull/531)
-for package:dart_mcp.
+[Retrofit](https://github.com/trevorwang/retrofit.dart/pull/921), and
+[Bun](https://github.com/uptrace/bun/pull/1390) on the Go side.
+In review: an approved
+[analyzer fix](https://dart-review.googlesource.com/c/sdk/+/525581) in the Dart
+SDK, [architecture validation](https://github.com/dart-lang/native/pull/3484)
+for dart-lang/native, and a
+[render-object fix](https://github.com/flutter/flutter/pull/189723) plus a
+[web first-frame fix](https://github.com/flutter/flutter/pull/189500) in
+Flutter.
+Recent write-up:
+[debugging a 45-second deadlock in MCP's Streamable HTTP](https://dev.to/yusufihsangorgel/one-request-two-streams-debugging-a-45-second-deadlock-in-mcps-streamable-http-30o9).
 
 [Portfolio](https://developeryusuf.com) · [Writing](https://yusufihsangorgel.github.io) · [dev.to](https://dev.to/yusufihsangorgel) · [Medium](https://medium.com/@developeryusufihsan) · [LinkedIn](https://www.linkedin.com/in/yusuf-ihsan-g%C3%B6rgel/)
