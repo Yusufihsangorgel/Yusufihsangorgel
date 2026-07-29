@@ -2,7 +2,7 @@ Software engineer working across Flutter, Dart, and Go, where client apps, nativ
 
 #### Upstream
 
-Reworking `package:dart_mcp`'s transport for the 2026 MCP specification: the [lifecycle split](https://github.com/dart-lang/ai/pull/524), [request-scoped dispatch](https://github.com/dart-lang/ai/pull/528), [decoded-message channels](https://github.com/dart-lang/ai/pull/531), and the first 2026-07-28 protocol types ([`Result.resultType`](https://github.com/dart-lang/ai/pull/565), [`CacheableResult`](https://github.com/dart-lang/ai/pull/570)) are merged. Two changes landed in the Dart SDK analyzer: it now [rejects Struct-constrained mixin applications](https://github.com/dart-lang/sdk/commit/94c4d27546cc90b81312735055b0fc45b3fcefca) and [handles `NativeCallable` arguments independently of source order](https://github.com/dart-lang/sdk/commit/ab364ca4aa5a9cef2bfb411c5508924606506e3d). In `package:code_assets`, a [validator now reads a dynamic library's architecture from its file headers](https://github.com/dart-lang/native/pull/3484). Also merged fixes into [shelf](https://github.com/dart-lang/shelf/pull/536), [Drift](https://github.com/simolus3/drift/pull/3835), [FlutterFire](https://github.com/firebase/flutterfire/pull/18443), [Retrofit](https://github.com/trevorwang/retrofit.dart/pull/921), and [Bun](https://github.com/uptrace/bun/pull/1390); more across dart-lang, flutter, and grpc-go on my profile.
+Reworking `package:dart_mcp`'s transport for the 2026 MCP specification: the [lifecycle split](https://github.com/dart-lang/ai/pull/524), [request-scoped dispatch](https://github.com/dart-lang/ai/pull/528), [decoded-message channels](https://github.com/dart-lang/ai/pull/531), and the first 2026-07-28 protocol types ([`Result.resultType`](https://github.com/dart-lang/ai/pull/565), [`CacheableResult`](https://github.com/dart-lang/ai/pull/570)) are merged. Two changes landed in the Dart SDK analyzer: it now [rejects Struct-constrained mixin applications](https://github.com/dart-lang/sdk/commit/94c4d27546cc90b81312735055b0fc45b3fcefca) and [handles `NativeCallable` arguments independently of source order](https://github.com/dart-lang/sdk/commit/ab364ca4aa5a9cef2bfb411c5508924606506e3d). In `package:code_assets`, a [validator now reads a dynamic library's architecture from its file headers](https://github.com/dart-lang/native/pull/3484). Also merged fixes into [shelf](https://github.com/dart-lang/shelf/pull/536), [vector_graphics_compiler](https://github.com/flutter/packages/pull/12199), [Drift](https://github.com/simolus3/drift/pull/3835), [FlutterFire](https://github.com/firebase/flutterfire/pull/18443), [Retrofit](https://github.com/trevorwang/retrofit.dart/pull/921), and [Bun](https://github.com/uptrace/bun/pull/1390); more across dart-lang, flutter, and grpc-go on my profile.
 
 #### Packages
 
@@ -21,6 +21,8 @@ Others are pure Dart:
 [The full list is on pub.dev](https://pub.dev/publishers/developeryusuf.com/packages).
 
 #### Writing
+
+[The Biggest MCP Update Ever, Explained With a Restaurant](https://medium.com/@developeryusufihsan/the-biggest-mcp-update-ever-explained-with-a-restaurant-7b1f2bcd7d06).
 
 [Debugging a 45-second deadlock in MCP's Streamable HTTP](https://dev.to/yusufihsangorgel/one-request-two-streams-debugging-a-45-second-deadlock-in-mcps-streamable-http-30o9).
 
